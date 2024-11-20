@@ -1,5 +1,5 @@
 <?php
-    $sueldo=1000;
+    $sueldo=1500;
     // Cálculo del descuento del 9%
     $descuento = $sueldo * 0.09;
 
