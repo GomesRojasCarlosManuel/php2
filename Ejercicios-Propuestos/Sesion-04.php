@@ -30,4 +30,18 @@ $palabra_original = "interesante";
 $palabra_nueva = "fácil";
 $cadena_reemplazada = str_replace($palabra_original, $palabra_nueva, $cadena);
 echo "5. La cadena después del reemplazo es: '$cadena_reemplazada'.<br>";
+
+/*Qué hace el programa:
+
+--Trabaja con un texto (cadena de caracteres):
+El texto inicial es: Aprender PHP es muy interesante y divertido.
+
+--Aplica diferentes operaciones al texto:
+
+1-Cuenta cuántos caracteres tiene.
+2-Busca si dentro del texto aparece una palabra o "subcadena".
+3-Toma una parte específica del texto.
+4-convierte todo el texto a letras minúsculas.
+5-reemplaza una palabra dentro del texto por otra.
+*/
 ?>
