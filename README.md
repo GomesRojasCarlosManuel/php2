@@ -1,6 +1,4 @@
-|   |
-|---|
-| ⬆️⬆️⬆️ |s
+⬆️⬆️⬆️
 
 los laboratorios se veran asi en la carpeta "Laboratorios"
 
