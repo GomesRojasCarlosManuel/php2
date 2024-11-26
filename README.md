@@ -1,3 +1,5 @@
+<p style="text-align:center; font-size:24px;">⬆️⬆️⬆️</p>
+
 los laboratorios se veran asi en la carpeta "Laboratorios"
 
 - lab01
